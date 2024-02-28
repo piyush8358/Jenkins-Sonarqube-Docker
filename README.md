@@ -1,8 +1,11 @@
 # Jenkins-Sonarqube-Docker
-## webdev-task-temp-convertor
-Project regarding workshop on webdevelopment on temp convertor given by # bharatintern
 
-# Explanation
+## webdev-task-temp-convertor
+
+Project regarding workshop on webdevelopment on temp convertor
+
+## Explanation of Temperature Conversion
+
 Fahrenheit and centigrade are two temperature scales in use today. The Fahrenheit scale was developed by the German physicist Daniel Gabriel Fahrenheit . In the Fahrenheit scale, water freezes at 32 degrees and boils at 212 degrees.
 
 *To understand temperature conversion, it's important to first understand the  main temperature scales and their reference points:
