@@ -1,21 +1,4 @@
 # Jenkins-Sonarqube-Docker
-
-## webdev-task-temp-convertor
-
-Project regarding workshop on web development on temperature converter given by # bharatintern
-
-# Explanation
-
-This README file provides an explanation of temperature conversion between Fahrenheit and Celsius scales. It includes information about the Fahrenheit and Celsius scales, their reference points, and the formulas for exact and approximate conversions.
-
-The Fahrenheit scale was developed by the German physicist Daniel Gabriel Fahrenheit. It uses the freezing point of water as 32 degrees and the boiling point as 212 degrees. On the other hand, the Celsius scale is widely used worldwide and is based on the freezing point of water as 0 degrees and the boiling point as 100 degrees.
-
-The README also provides the formulas for exact conversions between Fahrenheit and Celsius, as well as the approximate conversion formulas. It includes an example conversion to help understand the process.
-
-Please note that this README file is specific to the "webdev-task-temp-convertor" project and is intended to provide background information and instructions for using the temperature conversion functionality within the project.
-
-For more details, please refer to the full README file located at the specified file path.
-# Jenkins-Sonarqube-Docker
 ## webdev-task-temp-convertor
 Project regarding workshop on webdevelopment on temp convertor given by # bharatintern
 
